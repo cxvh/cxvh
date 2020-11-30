@@ -14,7 +14,7 @@
 
 💬 Ask me about [630749264@qq.com](mailto:630749264@qq.com)
 
-📫 How to reach me: QQ->630749264
+📫 How to reach me: [QQ->630749264](http://wpa.qq.com/msgrd?v=3&uin=630749264&site=qq&menu=yes)
 
 😄 ...
 
