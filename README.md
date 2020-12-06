@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/cxvh/static/webp/20201201042317.webp">
+  <img src="https://cdn.jsdelivr.net/gh/cxvh/static/gif/20201201042317.webp">
 
 [Home](https://cxvh.com)🏠 | [QQ](http://wpa.qq.com/msgrd?v=3&uin=630749264&site=qq&menu=yes)🤪 | [MAIL](mailto:lvcaodi@hotmail.com)📧
 
