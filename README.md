@@ -23,34 +23,26 @@
 </div>
 
 ### collection
-##### 杂记
-- [使用 Jenkins + GitHub + Nginx + HTTPS(免费生成证书) 搭建静态网站](https://www.imooc.com/article/20079?block_id=tuijian_wz)
-- [不蒜子 - 极简网页计数器](https://busuanzi.ibruce.info/)
+##### soft
 - [国内IP更换（非梯子）](http://blog.sina.com.cn/u/5265179322)
-- [lantern](https://github.com/getlantern/lantern/releases/tag/latest)
 
-##### 笔记/便笺
+##### note
 - [微软在线便笺，再也不担心本地每次打开一堆便利贴了，网页手机电脑数据同步](https://www.onenote.com/stickynotes)
 
-##### 视频
+##### video
 - [云智学院](https://abcxueyuan.baidu.com/#/line_course)
 
 ##### web
 - [查询 css js 的兼容性](https://caniuse.com/)
-- [yarn](https://classic.yarnpkg.com/zh-Hans/)
-- [nodejs](https://nodejs.org/zh-cn/)
 
 *JS*
-- [Ext JS](https://docs.sencha.com/)
-- [jui](https://jui.org/)
-- [miniui](http://www.miniui.com/)
 - [100+ jQ 插件](http://www.ijquery.cn/?cat=2)
-
+- [ES6 编译器](https://google.github.io/traceur-compiler/demo/repl.html)
 
 ###### Font
 - [iconfont](https://www.iconfont.cn/)
 
-##### 算法
+##### algorithm
 - [力扣-算法题库](https://leetcode-cn.com/problemset/all/)
 - [数据结构和算法动态可视化](https://visualgo.net/zh)
 ##### 玉米/服务器/DNS/内网穿透
@@ -65,9 +57,18 @@
 - [Lunnel](https://github.com/longXboy/lunnel)
 - [nat123](http://www.nat123.com/)
 
-##### 各种云
+##### cloud
 - [新浪云](https://www.sinacloud.com/)
 - [百度云加速](https://su.baidu.com/)
 
-##### 网站收录
+##### site
 - [bing](https://www.bing.com/webmasters/crawlcontrol?siteUrl=https://www.cxvh.com/)
+- [不蒜子 - 极简网页计数器](https://busuanzi.ibruce.info/)
+
+##### Open source
+- [baidu](https://github.com/baidu)
+- [google](https://github.com/google)
+- [tencent](https://github.com/tencent)
+- [alibaba](https://github.com/alibaba)
+- [bytedance](https://github.com/bytedance)
+- [microsoft](https://github.com/microsoft)
