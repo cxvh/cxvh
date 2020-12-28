@@ -77,6 +77,7 @@
 - [alibaba](https://github.com/alibaba)
 - [bytedance](https://github.com/bytedance)
 - [microsoft](https://github.com/microsoft)
+- [facebook](https://github.com/facebook/)
 - [brackets](https://github.com/brackets)
 - [lantern](https://github.com/getlantern/lantern/releases)
 
