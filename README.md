@@ -45,6 +45,7 @@
 ##### Video
 - [云智学院](https://abcxueyuan.baidu.com/#/line_course)
 - [csdn](https://edu.csdn.net/course)
+- [看雪学院](https://www.pediy.com/)
 
 ##### Algorithm
 - [力扣-算法题库](https://leetcode-cn.com/problemset/all/)
