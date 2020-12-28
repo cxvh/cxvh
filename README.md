@@ -23,24 +23,29 @@
 </div>
 
 ### collection
+
+##### 杂记
+- [查询 css js 的兼容性](https://caniuse.com/)
+- [100+ jQ 插件](http://www.ijquery.cn/?cat=2)
+- [ES6 编译器](https://google.github.io/traceur-compiler/demo/repl.html)
+- [tongji](https://tongji.baidu.com/research/site)
+- [w3schools](https://www.w3schools.com/)
+- [browsehappy](https://browsehappy.com/)
+- [liulanmi](https://liulanmi.com/)
+- [运行库](https://www.ali213.net/zhuanti/yxk/)
+- [浏览器秒变编辑器](data:text/html, <html contenteditable> Hi)
+
 ##### soft
 - [国内IP更换（非梯子）](http://blog.sina.com.cn/u/5265179322)
+- [potplayer](http://potplayer.daum.net/?lang=zh_CN)
+- [msdn](https://msdn.itellyou.cn/)
 
 ##### note
 - [微软在线便笺，再也不担心本地每次打开一堆便利贴了，网页手机电脑数据同步](https://www.onenote.com/stickynotes)
 
 ##### video
 - [云智学院](https://abcxueyuan.baidu.com/#/line_course)
-
-##### web
-- [查询 css js 的兼容性](https://caniuse.com/)
-
-*JS*
-- [100+ jQ 插件](http://www.ijquery.cn/?cat=2)
-- [ES6 编译器](https://google.github.io/traceur-compiler/demo/repl.html)
-
-###### Font
-- [iconfont](https://www.iconfont.cn/)
+- [csdn](https://edu.csdn.net/course)
 
 ##### algorithm
 - [力扣-算法题库](https://leetcode-cn.com/problemset/all/)
@@ -72,3 +77,9 @@
 - [alibaba](https://github.com/alibaba)
 - [bytedance](https://github.com/bytedance)
 - [microsoft](https://github.com/microsoft)
+- [brackets](https://github.com/brackets)
+- [lantern](https://github.com/getlantern/lantern/releases)
+
+##### Chat
+- [skype](https://web.skype.com/)
+- [wechat](https://wx.qq.com/)
