@@ -33,23 +33,23 @@
 - [browsehappy](https://browsehappy.com/)
 - [liulanmi](https://liulanmi.com/)
 - [运行库](https://www.ali213.net/zhuanti/yxk/)
-- [浏览器秒变编辑器](data:text/html, <html contenteditable> Hi)
 
-##### soft
+##### Soft
 - [国内IP更换（非梯子）](http://blog.sina.com.cn/u/5265179322)
 - [potplayer](http://potplayer.daum.net/?lang=zh_CN)
 - [msdn](https://msdn.itellyou.cn/)
 
-##### note
+##### Note
 - [微软在线便笺，再也不担心本地每次打开一堆便利贴了，网页手机电脑数据同步](https://www.onenote.com/stickynotes)
 
-##### video
+##### Video
 - [云智学院](https://abcxueyuan.baidu.com/#/line_course)
 - [csdn](https://edu.csdn.net/course)
 
-##### algorithm
+##### Algorithm
 - [力扣-算法题库](https://leetcode-cn.com/problemset/all/)
 - [数据结构和算法动态可视化](https://visualgo.net/zh)
+
 ##### 玉米/服务器/DNS/内网穿透
 - [免费申请：.tk .ml .ga .cf .gq](http://www.dot.tk/zh/index.html)
 - [硅云](https://www.vpsor.cn/)
@@ -62,11 +62,11 @@
 - [Lunnel](https://github.com/longXboy/lunnel)
 - [nat123](http://www.nat123.com/)
 
-##### cloud
+##### Cloud
 - [新浪云](https://www.sinacloud.com/)
 - [百度云加速](https://su.baidu.com/)
 
-##### site
+##### Site
 - [bing](https://www.bing.com/webmasters/crawlcontrol?siteUrl=https://www.cxvh.com/)
 - [不蒜子 - 极简网页计数器](https://busuanzi.ibruce.info/)
 
