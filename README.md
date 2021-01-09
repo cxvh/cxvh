@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning react&nodejs
 
-👯 I’m looking to collaborate on : more.
+👯 I’m looking to learn on : more.
 
 🤔 I’m looking for help with : more.
 
