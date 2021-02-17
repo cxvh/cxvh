@@ -16,8 +16,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/TszHong0411/blog/issues/1) in [TszHong0411/blog](https://github.com/TszHong0411/blog)
-2. ❗️ Opened issue [#1](https://github.com/Zfour/Butterfly-card-history/issues/1) in [Zfour/Butterfly-card-history](https://github.com/Zfour/Butterfly-card-history)
+1. 🗣 Commented on [#1](https://github.com/Zfour/Butterfly-card-history/issues/1) in [Zfour/Butterfly-card-history](https://github.com/Zfour/Butterfly-card-history)
+2. ❗️ Opened issue [#1](https://github.com/TszHong0411/blog/issues/1) in [TszHong0411/blog](https://github.com/TszHong0411/blog)
 <!--END_SECTION:activity-->
 
 
