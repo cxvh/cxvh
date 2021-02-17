@@ -16,8 +16,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/jamesgeorge007/github-activity-readme/issues/50) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#50](https://github.com/jamesgeorge007/github-activity-readme/issues/50) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Opened issue [#1](https://github.com/TszHong0411/blog/issues/1) in [TszHong0411/blog](https://github.com/TszHong0411/blog)
+2. ❗️ Opened issue [#1](https://github.com/Zfour/Butterfly-card-history/issues/1) in [Zfour/Butterfly-card-history](https://github.com/Zfour/Butterfly-card-history)
 <!--END_SECTION:activity-->
 
 
