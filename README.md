@@ -7,11 +7,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
-- [webpack](https://www.cxvh.com/2021/01/29/nodejs/webpack/)
-- [redis 😋](https://www.cxvh.com/2021/01/27/database/redis/)
-- [axios 使用 class 封装下](https://www.cxvh.com/2021/01/26/nodejs/axios/)
-- [框架 & 库 😋](https://www.cxvh.com/2021/01/24/web/js/frame_lib/)
-- [lerna 源码阅读](https://www.cxvh.com/2021/01/09/nodejs/lerna/)
+- [链接大全 😋](https://cxvh.com/2021/02/22/tool/README/)
+- [关于 READEME.md 自动生成和手动编辑两种方法介绍](https://cxvh.com/2021/02/14/git/READEME/)
+- [webpack](https://cxvh.com/2021/01/29/nodejs/webpack/)
+- [redis 😋](https://cxvh.com/2021/01/27/database/redis/)
+- [axios 使用 class 封装下](https://cxvh.com/2021/01/26/nodejs/axios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
