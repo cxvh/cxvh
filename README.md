@@ -172,7 +172,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![cxvh](https://komarev.com/ghpvc/?username=cxvh&label=Profile%20views&color=0e75b6&style=flat)
 
 ### :star: 其他状态
-[<img src="https://github-profile-trophy.vercel.app/?username=cxvh&theme=juicyfresh" />](https://github.com/ryo-ma/github-profile-trophy)  
+[<img src="https://github-profile-trophy.vercel.app/?username=cxvh&theme=juicyfresh" />](https://github.com/cxvh)  
 
 [website]: https://cxvh.com/
 [qq]: http://wpa.qq.com/msgrd?v=3&uin=630749264&site=qq&menu=yes
