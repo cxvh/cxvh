@@ -16,8 +16,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/cxvh/cxvh.github.io/issues/4) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
-2. ❌ Closed PR [#1](https://github.com/Akilarlxh/Toolbox/pull/1) in [Akilarlxh/Toolbox](https://github.com/Akilarlxh/Toolbox)
+1. ❗️ Opened issue [#2](https://github.com/Zfour/Butterfly-card-history/issues/2) in [Zfour/Butterfly-card-history](https://github.com/Zfour/Butterfly-card-history)
+2. ❗️ Closed issue [#4](https://github.com/cxvh/cxvh.github.io/issues/4) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
 <!--END_SECTION:activity-->
 
 
