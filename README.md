@@ -84,13 +84,13 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 141 Contributions in the Year 2021
+> 🏆 142 Contributions in the Year 2021
  > 
-> 📦 260.4 kB Used in Github's Storage 
+> 📦 260.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
