@@ -16,8 +16,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Akilarlxh/Toolbox/pull/1) in [Akilarlxh/Toolbox](https://github.com/Akilarlxh/Toolbox)
-2. ❗️ Closed issue [#1](https://github.com/TszHong0411/blog/issues/1) in [TszHong0411/blog](https://github.com/TszHong0411/blog)
+1. ❗️ Closed issue [#4](https://github.com/cxvh/cxvh.github.io/issues/4) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
+2. ❌ Closed PR [#1](https://github.com/Akilarlxh/Toolbox/pull/1) in [Akilarlxh/Toolbox](https://github.com/Akilarlxh/Toolbox)
 <!--END_SECTION:activity-->
 
 
