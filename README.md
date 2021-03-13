@@ -2,7 +2,7 @@
   <img src="https://cdn.jsdelivr.net/gh/cxvh/static/gif/20201201042317.webp">
 </div>
 
-### 嗨，您好，我是一名前端开发人员
+### 嗨，您好，我是一名Web开发人员
 这是我的个人网站 [Baran's Blog][website] 👋
 
 ### 博客文章
