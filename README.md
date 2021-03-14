@@ -7,10 +7,10 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [svg](https://cxvh.com/2021/03/12/web/html/svg/)
 - [javascript 案例](https://cxvh.com/2021/03/04/web/js/demo/)
 - [静态云存储 😋](https://cxvh.com/2021/02/24/tool/cloudstorage/)
 - [html进阶](https://cxvh.com/2021/02/24/web/html/advanced/)
-- [链接大全 😋](https://cxvh.com/2021/02/22/tool/README/)
 - [关于 READEME.md 自动生成和手动编辑两种方法介绍](https://cxvh.com/2021/02/14/git/READEME/)
 <!-- BLOG-POST-LIST:END -->
 
