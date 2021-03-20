@@ -3,9 +3,9 @@
 </div>
 
 ### 嗨，您好，我是一名Web开发人员
-这是我的个人网站 [Baran's Blog][website] 👋（备案停站中）
+这是我的个人网站 [Baran's Blog][website] 👋
 
-**备用域名** [cxvh.cc][website2]
+**备用** [cxvh.cc][website2]
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
