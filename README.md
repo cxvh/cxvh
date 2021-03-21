@@ -18,8 +18,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/cxvh/cxvh.github.io/issues/6) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
-2. ❗️ Opened issue [#2](https://github.com/Zfour/Butterfly-card-history/issues/2) in [Zfour/Butterfly-card-history](https://github.com/Zfour/Butterfly-card-history)
+1. ❗️ Closed issue [#6](https://github.com/cxvh/cxvh.github.io/issues/6) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
+2. ❗️ Opened issue [#6](https://github.com/cxvh/cxvh.github.io/issues/6) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
 <!--END_SECTION:activity-->
 
 
