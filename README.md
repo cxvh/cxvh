@@ -18,8 +18,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/cxvh/cxvh.github.io/issues/1) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
-2. ❗️ Opened issue [#7](https://github.com/cxvh/cxvh.github.io/issues/7) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
+1. ❗️ Opened issue [#9](https://github.com/cxvh/cxvh.github.io/issues/9) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
+2. ❗️ Opened issue [#8](https://github.com/cxvh/cxvh.github.io/issues/8) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
 <!--END_SECTION:activity-->
 
 
