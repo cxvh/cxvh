@@ -86,11 +86,11 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 135 Contributions in the Year 2021
+> 🏆 133 Contributions in the Year 2021
  > 
 > 📦 342.1 kB Used in Github's Storage 
  > 
