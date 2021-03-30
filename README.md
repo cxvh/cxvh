@@ -86,17 +86,17 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 133 Contributions in the Year 2021
+> 🏆 136 Contributions in the Year 2021
  > 
 > 📦 342.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 67 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
