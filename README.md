@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [安装 python 😋](https://cxvh.com/2021/04/11/python/base/)
 - [WebStorm-2020.3.3 😋](https://cxvh.com/2021/03/23/tool/webstorm/)
 - [面试题记录  😋](https://cxvh.com/2021/03/22/web/InterviewQuestions/)
 - [宝塔面板  😋](https://cxvh.com/2021/03/15/system/bt.cn/)
 - [svg](https://cxvh.com/2021/03/12/web/html/svg/)
-- [javascript 代码碎片](https://cxvh.com/2021/03/04/web/js/demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
