@@ -71,7 +71,6 @@ HTML、模板语言<br>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="//music.163.com/outchain/player?type=2&id=34280405&auto=0&height=66"></iframe> -->
 
 ### :telephone_receiver: 联系我:
-[<img src="https://img.shields.io/twitter/follow/baran31236600?logo=twitter&style=for-the-badge" height="22" />][twitter]
 [<img src="https://cdn.jsdelivr.net/gh/cxvh/static/svg/mail.svg" width="22" />][mail]
 [<img src="https://cdn.jsdelivr.net/gh/cxvh/static/svg/QQ.svg" width="22" />][qq]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" width="22" />][codesandbox]
