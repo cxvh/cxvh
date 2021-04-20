@@ -4,14 +4,10 @@
   icon: https://cdn.jsdelivr.net/gh/cxvh/static@main/avatar/avatar.png
   descript: 博客订阅
   list:
-    - BARAN的小站🔥🔥🔥: https://rsshub.allapi.cc/hexo/butterfly/cxvh.com
-    - 王垠博客: https://rsshub.allapi.cc/blogs/wangyin
     - 芝麻地: https://rsshub.allapi.cc/blogs/hedwig/zmd
-    - PhrackMagazine: https://rsshub.allapi.cc/phrack
     - LeeMeng: https://rsshub.allapi.cc/leemeng
     - PaulGraham: https://rsshub.allapi.cc/blogs/paulgraham
     - 财新博客: https://rsshub.allapi.cc/caixin/blog/zhangwuchang
-    - 大侠阿木: https://rsshub.allapi.cc/daxiaamu/home
     - 建宁闲谈: https://rsshub.allapi.cc/blogs/jianning
     - 敬维博客: https://rsshub.allapi.cc/blogs/jingwei.link
     - DIYgod的动森日记: https://rsshub.allapi.cc/blogs/diygod/animal-crossing
@@ -49,8 +45,7 @@
   icon: https://cdn.jsdelivr.net/gh/cxvh/static@main/avatar/avatar.png
   descript: 音频视频
   list:
-    - 猫眼电影-正在热映: https://rsshub.allapi.cc/maoyan/hot
-    - 猫眼电影-即将上映: https://rsshub.allapi.cc/maoyan/upcoming
+    - 猫眼电影: https://rsshub.allapi.cc/maoyan/hot
     - 优酷: https://rsshub.allapi.cc/youku/channel/UNTg3MTM3OTcy
     - 中国高清网: https://rsshub.allapi.cc/gaoqingla
     - 柠檬私房歌: https://rsshub.allapi.cc/ningmeng/song
@@ -153,17 +148,12 @@
   descript: 社交媒体
   list:
     - 755: https://rsshub.allapi.cc/755/user/akimoto-manatsu
-    - 【bilibili】番剧: https://rsshub.allapi.cc/bilibili/bangumi/media/9192
-    - 【bilibili】排行榜: https://rsshub.allapi.cc/bilibili/ranking/0/3/1
-    - 【bilibili】直播公告: https://rsshub.allapi.cc/bilibili/link/news/live
+    - B站番剧: https://rsshub.allapi.cc/bilibili/bangumi/media/9192
+    - B站排行榜: https://rsshub.allapi.cc/bilibili/ranking/0/3/1
     - 大众点评: https://rsshub.allapi.cc/dianping/user/35185271
-    - 【豆瓣】正在上映: https://rsshub.allapi.cc/douban/movie/playing
-    - 【豆瓣】北美票房榜: https://rsshub.allapi.cc/douban/movie/ustop
-    - 【豆瓣】一周口碑榜: https://rsshub.allapi.cc/douban/movie/weekly
-    - 【豆瓣】最新增加音乐: https://rsshub.allapi.cc/douban/music/latest/chinese
-    - 【豆瓣】热门同城活动: https://rsshub.allapi.cc/douban/event/hot/118172
-    - 【豆瓣】豆瓣书店: https://rsshub.allapi.cc/douban/bookstore
-    - 【豆瓣】热门图书排行: https://rsshub.allapi.cc/douban/book/rank/fiction
+    - 豆瓣电影: https://rsshub.allapi.cc/douban/movie/playing
+    - 豆瓣音乐: https://rsshub.allapi.cc/douban/music/latest/chinese
+    - 豆瓣热门图书: https://rsshub.allapi.cc/douban/book/rank/fiction
     - 方格子: https://rsshub.allapi.cc/vocus/publication/bass
     - 即刻: https://rsshub.allapi.cc/jike/topic/556688fae4b00c57d9dd46ee
     - 简书: https://rsshub.allapi.cc/jianshu/home
@@ -179,23 +169,9 @@
   icon: https://cdn.jsdelivr.net/gh/cxvh/static@main/avatar/avatar.png
   descript: 阅读
   list:
-    - AllPoetry: https://rsshub.allapi.cc/allpoetry/newest
-    - SoBooks: https://rsshub.allapi.cc/sobooks
-    - UU看书: https://rsshub.allapi.cc/novel/uukanshu/49621
-    - 爱思想: https://rsshub.allapi.cc/aisixiang/ranking/1/7
-    - 爱下电子书: https://rsshub.allapi.cc/axdzs/191/191976
-    - 博客来: https://rsshub.allapi.cc/bookscomtw/newbooks/books_nbtopm_15
-    - 归档: https://rsshub.allapi.cc/sobooks/date/2020-11
-    - 禁忌书屋: https://rsshub.allapi.cc/cool18/bbs4
     - 孔夫子旧书网: https://rsshub.allapi.cc/kongfz/shop/238901/1
-    - 飘天文学: https://rsshub.allapi.cc/novel/ptwxz/10/10272
     - 起点: https://rsshub.allapi.cc/qidian/free
-    - 青空文庫新着リスト: https://rsshub.allapi.cc/aozora/newbook/10
-    - 轻小说文库: https://rsshub.allapi.cc/wenku8/chapter/74
-    - 生物谷: https://rsshub.allapi.cc/shengwugu/biology
-    - 书趣阁: https://rsshub.allapi.cc/novel/shuquge/8659
     - 虛詞: https://rsshub.allapi.cc/p-articles/section/critics-art
-    - 纵横: https://rsshub.allapi.cc/zongheng/chapter/672340
     - 左岸读书: https://rsshub.allapi.cc/zreading
 - name: 学习
   categories: picture
@@ -203,15 +179,13 @@
   icon: https://cdn.jsdelivr.net/gh/cxvh/static@main/avatar/avatar.png
   descript: 学习
   list:
-    - 【Mind42】分类: https://rsshub.allapi.cc/mind42
-    - 【Mind42】标签: https://rsshub.allapi.cc/mind42/tag/online
+    - Mind42: https://rsshub.allapi.cc/mind42
     - NEEA国家教育考试: https://rsshub.allapi.cc/neea/gaokao
     - NEEA社会证书考试: https://rsshub.allapi.cc/neea/cet
     - ProcessOn: https://rsshub.allapi.cc/processon/popular
     - XMind: https://rsshub.allapi.cc/xmind/mindmap
     - zhimap思维导图社区: https://rsshub.allapi.cc/jijitang/publication
-    - 【唧唧堂】论文: https://rsshub.allapi.cc/jijitang/publication
-    - 【唧唧堂】文档: https://rsshub.allapi.cc/jijitang/article/latest
+    - 唧唧堂: https://rsshub.allapi.cc/jijitang/publication
     - 金山词霸: https://rsshub.allapi.cc/iciba/7/poster
     - 码农周刊: https://rsshub.allapi.cc/manong-weekly
     - 幕布精选: https://rsshub.allapi.cc/mubu/explore/16/读书笔记
@@ -225,8 +199,5 @@
     - 阳光高考: https://rsshub.allapi.cc/chsi/zszcgd
     - 印象剪藏: https://rsshub.allapi.cc/yinxiang/note
     - 有道云笔记: https://rsshub.allapi.cc/youdao/xueba
-    - 有道云笔记最新动态: https://rsshub.allapi.cc/youdao/latest
-    - 【知識分子】新聞: https://rsshub.allapi.cc/zhishifenzi/news/ai
-    - 【知識分子】深度: https://rsshub.allapi.cc/zhishifenzi/depth
-    - 【知識分子】创新: https://rsshub.allapi.cc/zhishifenzi/innovation/company
+    - 知識分子: https://rsshub.allapi.cc/zhishifenzi/innovation/company
     - 中国大学MOOC: https://rsshub.allapi.cc/icourse163/newest
