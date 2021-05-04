@@ -18,8 +18,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/jerryc127/butterfly.js.org/pull/22) in [jerryc127/butterfly.js.org](https://github.com/jerryc127/butterfly.js.org)
-2. ❗️ Opened issue [#9](https://github.com/cxvh/cxvh.github.io/issues/9) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
+1. 🎉 Merged PR [#4](https://github.com/code-ba/rss-reader/pull/4) in [code-ba/rss-reader](https://github.com/code-ba/rss-reader)
+2. 💪 Opened PR [#4](https://github.com/code-ba/rss-reader/pull/4) in [code-ba/rss-reader](https://github.com/code-ba/rss-reader)
 <!--END_SECTION:activity-->
 
 
