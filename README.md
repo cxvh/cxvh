@@ -22,6 +22,7 @@
 2. 💪 Opened PR [#4](https://github.com/code-ba/rss-reader/pull/4) in [code-ba/rss-reader](https://github.com/code-ba/rss-reader)
 <!--END_SECTION:activity-->
 
+[![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
 
 ### :gem: 投入网站时间：
 [![time tracker](https://wakatime.com/badge/gitlab/cxvh/blogs.svg)](https://wakatime.com/badge/gitlab/cxvh/blogs)
