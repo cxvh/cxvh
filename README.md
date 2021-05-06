@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
-- [安装 python 😋](https://cxvh.com/2021/04/11/python/base/)
-- [WebStorm-2020.3.3 😋](https://cxvh.com/2021/03/23/tool/webstorm/)
-- [面试题记录  😋](https://cxvh.com/2021/03/22/web/InterviewQuestions/)
-- [宝塔面板  😋](https://cxvh.com/2021/03/15/system/bt.cn/)
-- [svg](https://cxvh.com/2021/03/12/web/html/svg/)
+- [win使用杂记](https://cxvh.com/2021/05/06/system/useWindows/)
+- [node多进程](https://cxvh.com/2021/05/05/nodejs/process/)
+- [photoshop2020](https://cxvh.com/2021/05/03/tool/PS2020/)
+- [office 安装与卸载](https://cxvh.com/2021/05/01/tool/office/)
+- [安装 python](https://cxvh.com/2021/04/11/python/base/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
