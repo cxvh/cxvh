@@ -163,16 +163,6 @@
     - 知乎专栏: https://rsshub.allapi.cc/zhihu/zhuanlan/googledevelopers
     - 知乎日报: https://rsshub.allapi.cc/zhihu/daily
     - 知乎想法热榜: https://rsshub.allapi.cc//zhihu/pin/hotlist
-- name: 阅读
-  categories: picture
-  class: fas fa-book fa-fw
-  icon: https://cdn.jsdelivr.net/gh/cxvh/static@main/avatar/avatar.png
-  descript: 阅读
-  list:
-    - 孔夫子旧书网: https://rsshub.allapi.cc/kongfz/shop/238901/1
-    - 起点: https://rsshub.allapi.cc/qidian/free
-    - 虛詞: https://rsshub.allapi.cc/p-articles/section/critics-art
-    - 左岸读书: https://rsshub.allapi.cc/zreading
 - name: 学习
   categories: picture
   class: fas fa-graduation-cap fa-fw
@@ -201,3 +191,13 @@
     - 有道云笔记: https://rsshub.allapi.cc/youdao/xueba
     - 知識分子: https://rsshub.allapi.cc/zhishifenzi/innovation/company
     - 中国大学MOOC: https://rsshub.allapi.cc/icourse163/newest
+- name: 阅读
+  categories: picture
+  class: fas fa-book fa-fw
+  icon: https://cdn.jsdelivr.net/gh/cxvh/static@main/avatar/avatar.png
+  descript: 阅读
+  list:
+    - 孔夫子旧书网: https://rsshub.allapi.cc/kongfz/shop/238901/1
+    - 起点: https://rsshub.allapi.cc/qidian/free
+    - 虛詞: https://rsshub.allapi.cc/p-articles/section/critics-art
+    - 左岸读书: https://rsshub.allapi.cc/zreading
