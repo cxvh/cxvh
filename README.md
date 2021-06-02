@@ -5,7 +5,7 @@
 ### 嗨，您好，我是一名Web开发人员
 这是我的个人网站 [Baran's Blog][website] 👋
 
-**备用** [cxvh.com][website2]
+**备用** [blog.cxvh.com][website2]
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
@@ -175,7 +175,7 @@ Python                   2 repos             █░░░░░░░░░░�
 [<img src="https://github-profile-trophy.vercel.app/?username=cxvh&theme=juicyfresh" />](https://github.com/cxvh)  
 
 [website]: https://cxvh.com/
-[website2]: https://cxvh.cc/
+[website2]: https://blog.cxvh.com/
 [qq]: http://wpa.qq.com/msgrd?v=3&uin=630749264&site=qq&menu=yes
 [mail]: mailto:630749264@qq.com
 [twitter]: https://twitter.com/baran31236600
