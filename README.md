@@ -86,11 +86,11 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 314 Contributions in the Year 2021
+> 🏆 316 Contributions in the Year 2021
  > 
 > 📦 405.0 kB Used in Github's Storage 
  > 
@@ -114,8 +114,8 @@ HTML、模板语言<br>
 ```text
 Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   19.64% 
 Tuesday      44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Wednesday    60 commits     █████░░░░░░░░░░░░░░░░░░░░   21.82% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
+Wednesday    58 commits     █████░░░░░░░░░░░░░░░░░░░░   21.09% 
+Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
 Friday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
 Saturday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
 Sunday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.82%
@@ -159,7 +159,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/06/2021
+ Last Updated on 16/06/2021
 <!--END_SECTION:waka-->
 </details>
 
