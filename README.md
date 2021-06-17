@@ -86,17 +86,17 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 316 Contributions in the Year 2021
+> 🏆 319 Contributions in the Year 2021
  > 
-> 📦 405.0 kB Used in Github's Storage 
+> 📦 405.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 88 Public Repositories 
+> 📜 89 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -115,8 +115,8 @@ HTML、模板语言<br>
 Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   19.64% 
 Tuesday      44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
 Wednesday    58 commits     █████░░░░░░░░░░░░░░░░░░░░   21.09% 
-Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Friday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
+Friday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
 Saturday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
 Sunday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.82%
 
@@ -129,16 +129,18 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 16 mins       ████████████████████████░   97.01% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 22 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aplayer                  3 hrs 22 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +161,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2021
+ Last Updated on 17/06/2021
 <!--END_SECTION:waka-->
 </details>
 
