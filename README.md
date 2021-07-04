@@ -18,8 +18,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/code-ba/hexo-tag-aplayer/pull/1) in [code-ba/hexo-tag-aplayer](https://github.com/code-ba/hexo-tag-aplayer)
-2. 💪 Opened PR [#1](https://github.com/code-ba/hexo-tag-aplayer/pull/1) in [code-ba/hexo-tag-aplayer](https://github.com/code-ba/hexo-tag-aplayer)
+1. 🎉 Merged PR [#1](https://github.com/code-ba/APlayer/pull/1) in [code-ba/APlayer](https://github.com/code-ba/APlayer)
+2. 💪 Opened PR [#1](https://github.com/code-ba/APlayer/pull/1) in [code-ba/APlayer](https://github.com/code-ba/APlayer)
 <!--END_SECTION:activity-->
 
 [![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
