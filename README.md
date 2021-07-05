@@ -170,10 +170,14 @@ Python                   2 repos             █░░░░░░░░░░�
 
  Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
+  
+![cxvh](https://komarev.com/ghpvc/?username=cxvh&label=Profile%20views&color=0e75b6&style=flat)
+
 </details>
 
 ### :kissing_smiling_eyes: 访客
-![cxvh](https://komarev.com/ghpvc/?username=cxvh&label=Profile%20views&color=0e75b6&style=flat)
+
+[![https://count.getloli.com/get/@cxvh?theme=gelbooru](https://count.getloli.com/get/@cxvh?theme=gelbooru)](https://github.com/cxvh/)
 
 ### :star: 其他状态
 [<img src="https://github-profile-trophy.vercel.app/?username=cxvh&theme=juicyfresh" />](https://github.com/cxvh)  
