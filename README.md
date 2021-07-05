@@ -181,7 +181,7 @@ Python                   2 repos             █░░░░░░░░░░�
 [website]: https://cxvh.com/
 [website2]: https://blog.cxvh.com/
 [qq]: http://wpa.qq.com/msgrd?v=3&uin=630749264&site=qq&menu=yes
-[mail]: mailto:630749264@qq.com
+[mail]: mailto:info@cxvh.com
 [twitter]: https://twitter.com/baran31236600
 [codesandbox]: https://codesandbox.com/cxvh
 
