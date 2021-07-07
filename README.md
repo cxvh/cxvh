@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
-- [shell学习笔记【更新中.】](https://cxvh.com/2021/05/11/shell/base/)
-- [photoshop2020](https://cxvh.com/2021/05/03/tool/PS2020/)
-- [office 安装与卸载](https://cxvh.com/2021/05/01/tool/office/)
+- [如何快速搭建WebIde详细教程](https://cxvh.com/2021/07/06/tool/webide/)
+- [【已加密】Electron开发本地音乐播放器](https://cxvh.com/2021/06/26/imooc/MusicPlayer/)
+- [【已加密】程序员理财课 Python量化交易系统实战](https://cxvh.com/2021/06/26/imooc/QuantitativeTrading/)
+- [常用软件下载安装](https://cxvh.com/2021/05/01/tool/softdownload/)
 - [安装 python](https://cxvh.com/2021/04/11/python/base/)
-- [WebStorm-2020.3.3](https://cxvh.com/2021/03/23/tool/webstorm/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
