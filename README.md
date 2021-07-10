@@ -22,10 +22,9 @@
 2. 💪 Opened PR [#5](https://github.com/code-ba/hexo-issueslink/pull/5) in [code-ba/hexo-issueslink](https://github.com/code-ba/hexo-issueslink)
 <!--END_SECTION:activity-->
 
-[![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
-
-
 [<img src="https://github.com/cxvh/cxvh/raw/output/github-contribution-grid-snake.svg" alt="Generate Datas" width="100%">](https://github.com/cxvh)
+
+[![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
 
 ### :gem: 投入网站时间：
 [![time tracker](https://wakatime.com/badge/gitlab/cxvh/blogs.svg)](https://wakatime.com/badge/gitlab/cxvh/blogs)
@@ -174,12 +173,12 @@ Python                   2 repos             █░░░░░░░░░░�
 
  Last Updated on 09/07/2021
 <!--END_SECTION:waka-->
-  
-![cxvh](https://komarev.com/ghpvc/?username=cxvh&label=Profile%20views&color=0e75b6&style=flat)
 
 </details>
 
 ### :kissing_smiling_eyes: 访客
+  
+![cxvh](https://komarev.com/ghpvc/?username=cxvh&label=Profile%20views&color=0e75b6&style=flat)
 
 [![https://count.getloli.com/get/@cxvh?theme=gelbooru](https://count.getloli.com/get/@cxvh?theme=gelbooru)](https://github.com/cxvh/)
 
