@@ -21,6 +21,7 @@
 1. 🎉 Merged PR [#5](https://github.com/code-ba/hexo-issueslink/pull/5) in [code-ba/hexo-issueslink](https://github.com/code-ba/hexo-issueslink)
 2. 💪 Opened PR [#5](https://github.com/code-ba/hexo-issueslink/pull/5) in [code-ba/hexo-issueslink](https://github.com/code-ba/hexo-issueslink)
 <!--END_SECTION:activity-->
+[![https://github.com/cxvh/cxvh/raw/output/github-contribution-grid-snake.svg](https://github.com/cxvh/cxvh/raw/output/github-contribution-grid-snake.svg)](https://github.com/cxvh)
 
 [![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
 
@@ -77,7 +78,7 @@ HTML、模板语言<br>
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" width="22" />][codesandbox]
 
 ### :heart_eyes: GitHub 分析
-![BaranLee's Github stats](https://github-readme-stats.vercel.app/api?username=cxvh&theme=dark&show_icons=true)
+![BaranLee's Github stats](https://github-readme-stats.vercel.app/api?username=cxvh&theme=flag-india&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cxvh&theme=flag-india&show_icons=true&locale=en&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cxvh)
 
