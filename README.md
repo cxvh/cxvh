@@ -22,7 +22,7 @@
 2. 💪 Opened PR [#5](https://github.com/code-ba/hexo-issueslink/pull/5) in [code-ba/hexo-issueslink](https://github.com/code-ba/hexo-issueslink)
 <!--END_SECTION:activity-->
 
-[<img src="https://github.com/cxvh/cxvh/raw/output/github-contribution-grid-snake.svg" alt="Generate Datas" width="100%">](https://github.com/cxvh)
+[<img src="https://cdn.jsdelivr.net/gh/cxvh/cxvh@output/github-contribution-grid-snake.svg" onerror='this.src="https://github.com/cxvh/cxvh/raw/output/github-contribution-grid-snake.svg"' alt="Generate Datas" width="100%">](https://github.com/cxvh)
 
 [![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
 
