@@ -33,6 +33,8 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0cd260cc-6945-492b-a5b3-56b1bef40e51/6f6b5918-41bf-4055-a22e-11c7fcfc128a.png" /></a>
 
 ### :baby: 技能：
+
+<!--
 HTML、模板语言<br>
 ![](https://img.shields.io/badge/非常熟练-HTML-green) ![](https://img.shields.io/badge/熟练-YAML-lightgrey) ![](https://img.shields.io/badge/入门-PUG-success) ![](https://img.shields.io/badge/入门-EJS-important) ![](https://img.shields.io/badge/熟练-Freemarker-brightgreen) ![](https://img.shields.io/badge/熟练-Jsp-critical) ![](https://img.shields.io/badge/熟练-Volicity-informational)
 <br>CSS、CSS扩展语言<br>
@@ -66,6 +68,7 @@ HTML、模板语言<br>
 ![](https://img.shields.io/badge/熟练-nginx-ff69b4)
 ![](https://img.shields.io/badge/入门-shell-success)
 ![](https://img.shields.io/badge/熟练-vscode-critical)
+-->
 
 ### :yum: 主要状态：
 ![Metrics](https://metrics.lecoq.io/cxvh?template=classic&config.timezone=Asia%2FShanghai&config.animated=true)
