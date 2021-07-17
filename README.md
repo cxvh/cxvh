@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [node实现tcp内网穿透、映射外网](https://cxvh.com/2021/07/17/nodejs/net/)
+- [egg搭建后台系统](https://cxvh.com/2021/07/13/nodejs/egg_admin/)
 - [如何快速搭建WebIde详细教程](https://cxvh.com/2021/07/06/tool/webide/)
 - [【已加密】Electron开发本地音乐播放器](https://cxvh.com/2021/06/26/imooc/MusicPlayer/)
 - [【已加密】程序员理财课 Python量化交易系统实战](https://cxvh.com/2021/06/26/imooc/QuantitativeTrading/)
-- [常用软件下载安装](https://cxvh.com/2021/05/01/tool/softdownload/)
-- [安装 python](https://cxvh.com/2021/04/11/python/base/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
