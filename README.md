@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [“nodejs”实现命令行交互原理](https://cxvh.com/2021/07/24/nodejs/commandLineInteraction/)
+- [FFmpeg，一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频。](https://cxvh.com/2021/07/20/ffmpeg/base/)
 - [一条指令即可搭建启动 node 代理服务](https://cxvh.com/2021/07/20/nodejs/proxy-server/)
 - [node实现tcp内网穿透、映射外网](https://cxvh.com/2021/07/17/nodejs/net/)
 - [egg搭建后台系统](https://cxvh.com/2021/07/13/nodejs/egg_admin/)
-- [如何快速搭建WebIde详细教程](https://cxvh.com/2021/07/06/tool/webide/)
-- [【已加密】Electron开发本地音乐播放器](https://cxvh.com/2021/06/26/imooc/MusicPlayer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
