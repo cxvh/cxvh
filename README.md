@@ -26,8 +26,8 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
 
-### :gem: 投入网站时间：
-- [博客](https://cxvh.com)：[![time tracker](https://wakatime.com/badge/gitlab/cxvh/blogs.svg)](https://wakatime.com/badge/gitlab/cxvh/blogs)
+### :gem: 投入开发时间：
+[![time tracker](https://wakatime.com/badge/gitlab/cxvh/blogs.svg)](https://wakatime.com/badge/gitlab/cxvh/blogs)
 
 ### :100: 语言分析：
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0cd260cc-6945-492b-a5b3-56b1bef40e51/6f6b5918-41bf-4055-a22e-11c7fcfc128a.png" /></a>
