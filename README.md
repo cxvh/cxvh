@@ -91,13 +91,13 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 249 Contributions in the Year 2021
  > 
-> 📦 458.5 kB Used in Github's Storage 
+> 📦 458.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,18 +134,16 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     28 mins             ████████████████████████░   98.16% 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+Vue.js                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-aaaaaaaaa                28 mins             ████████████████████████░   98.16% 
-qqq                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+qqq                      0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.0%
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -166,7 +164,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
 
 </details>
