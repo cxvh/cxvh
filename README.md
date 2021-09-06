@@ -91,7 +91,7 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
@@ -134,17 +134,16 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   21 mins             ███████████████████████░░   94.42% 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zhidian-h5               22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -165,7 +164,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
 
 </details>
