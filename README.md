@@ -134,17 +134,16 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   42 mins             ████████████████████████░   96.99% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zhidian-h5               44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -165,7 +164,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2021
+ Last Updated on 15/09/2021
 <!--END_SECTION:waka-->
 
 </details>
