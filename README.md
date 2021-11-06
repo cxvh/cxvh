@@ -18,7 +18,7 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/code-ba/hexo-issueslink/pull/5) in [code-ba/hexo-issueslink](https://github.com/code-ba/hexo-issueslink)
+1. ❗️ Opened issue [#14](https://github.com/cxvh/cxvh.github.io/issues/14) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
 2. 💪 Opened PR [#5](https://github.com/code-ba/hexo-issueslink/pull/5) in [code-ba/hexo-issueslink](https://github.com/code-ba/hexo-issueslink)
 <!--END_SECTION:activity-->
 
