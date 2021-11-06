@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [vue3 基础知识](https://cxvh.com/2021/08/03/vue3/base/)
+- [typescript 基础知识](https://cxvh.com/2021/08/03/web/ts/base./)
 - [“nodejs”实现命令行交互原理](https://cxvh.com/2021/07/24/nodejs/commandLineInteraction/)
 - [FFmpeg，一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频。](https://cxvh.com/2021/07/20/ffmpeg/base/)
 - [一条指令即可搭建启动 node 代理服务](https://cxvh.com/2021/07/20/nodejs/proxy-server/)
-- [node实现tcp内网穿透、映射外网](https://cxvh.com/2021/07/17/nodejs/net/)
-- [egg搭建后台系统](https://cxvh.com/2021/07/13/nodejs/egg_admin/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
