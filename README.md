@@ -18,8 +18,8 @@
 
 ### :zap: 近期动态
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/cxvh/cxvh.github.io/issues/14) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
-2. 💪 Opened PR [#5](https://github.com/code-ba/hexo-issueslink/pull/5) in [code-ba/hexo-issueslink](https://github.com/code-ba/hexo-issueslink)
+1. ❗️ Closed issue [#12](https://github.com/cxvh/cxvh.github.io/issues/12) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
+2. ❗️ Closed issue [#13](https://github.com/cxvh/cxvh.github.io/issues/13) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
 <!--END_SECTION:activity-->
 
 [<img src="https://cdn.jsdelivr.net/gh/cxvh/cxvh@output/github-contribution-grid-snake.svg" onerror='this.src="https://github.com/cxvh/cxvh/raw/output/github-contribution-grid-snake.svg"' alt="Generate Datas" width="100%">](https://github.com/cxvh)
