@@ -91,17 +91,17 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 274 Contributions in the Year 2021
+> 🏆 275 Contributions in the Year 2021
  > 
 > 📦 459.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 113 Public Repositories 
+> 📜 114 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
@@ -170,7 +170,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/11/2021
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
 
 </details>
