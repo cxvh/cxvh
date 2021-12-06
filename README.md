@@ -140,7 +140,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blogs                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -164,7 +164,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 </details>
