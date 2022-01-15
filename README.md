@@ -91,13 +91,15 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 460.9 kB Used in GitHub's Storage 
+> 📦 461.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,7 +174,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/01/2022
+ Last Updated on 15/01/2022
 <!--END_SECTION:waka-->
 
 </details>
