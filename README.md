@@ -91,13 +91,15 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 10 Contributions in the Year 2022
  > 
-> 📦 461.5 kB Used in GitHub's Storage 
+> 📦 461.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,11 +155,11 @@ Windows                  1 hr 20 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               22 repos            █████████████░░░░░░░░░░░░   55.0% 
-Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+JavaScript               22 repos            █████████████░░░░░░░░░░░░   53.66% 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 
@@ -167,7 +169,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 20:24:22 UTC
+ Last Updated on 31/01/2022 20:24:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
