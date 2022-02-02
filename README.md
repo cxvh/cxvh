@@ -91,13 +91,11 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 10 Contributions in the Year 2022
+> 🏆 12 Contributions in the Year 2022
  > 
 > 📦 461.6 kB Used in GitHub's Storage 
  > 
@@ -121,11 +119,11 @@ HTML、模板语言<br>
 ```text
 Monday       26 commits     █████░░░░░░░░░░░░░░░░░░░░   23.42% 
 Tuesday      36 commits     ████████░░░░░░░░░░░░░░░░░   32.43% 
-Wednesday    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
+Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
 Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
 Friday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
 Saturday     13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
-Sunday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91%
+Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
 
 ```
 
@@ -136,19 +134,16 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               45 mins             ██████████████░░░░░░░░░░░   57.25% 
-Markdown                 34 mins             ██████████░░░░░░░░░░░░░░░   42.75%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-typescript               45 mins             ██████████████░░░░░░░░░░░   57.25% 
-vip_video-master         30 mins             █████████░░░░░░░░░░░░░░░░   38.51% 
-blogs                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.24%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -169,7 +164,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 20:24:23 UTC
+ Last Updated on 02/02/2022 20:24:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
