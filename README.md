@@ -91,13 +91,13 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 12 Contributions in the Year 2022
  > 
-> 📦 461.7 kB Used in GitHub's Storage 
+> 📦 461.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -164,7 +164,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 20:20:24 UTC
+ Last Updated on 08/02/2022 20:24:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
