@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
+- [【已加密】一站掌握TypeScript基础入门+语法进阶+高级语法](https://cxvh.com/2022/01/10/imooc/TypeScript/)
 - [vue3 基础知识](https://cxvh.com/2021/08/03/vue3/base/)
 - [typescript 基础知识](https://cxvh.com/2021/08/03/web/ts/base./)
 - [“nodejs”实现命令行交互原理](https://cxvh.com/2021/07/24/nodejs/commandLineInteraction/)
 - [FFmpeg，一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频。](https://cxvh.com/2021/07/20/ffmpeg/base/)
-- [一条指令即可搭建启动 node 代理服务](https://cxvh.com/2021/07/20/nodejs/proxy-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: 近期动态
