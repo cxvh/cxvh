@@ -91,7 +91,7 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -170,7 +170,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2022 20:23:36 UTC
+ Last Updated on 16/02/2022 20:24:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
