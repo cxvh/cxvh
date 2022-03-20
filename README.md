@@ -91,17 +91,19 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2052%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 39 Contributions in the Year 2022
+> 🏆 41 Contributions in the Year 2022
  > 
-> 📦 463.6 kB Used in GitHub's Storage 
+> 📦 463.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 140 Public Repositories 
+> 📜 142 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -134,16 +136,22 @@ Sunday       7 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   38.74% 
+Pug                      1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.54% 
+YAML                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Stylus                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 38 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+newblog                  3 hrs 20 mins       ███████████████████████░░   91.78% 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
+blogs                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -164,7 +172,7 @@ Stylus                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/03/2022 20:24:08 UTC
+ Last Updated on 20/03/2022 20:24:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
