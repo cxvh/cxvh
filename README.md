@@ -99,7 +99,7 @@ HTML、模板语言<br>
 
 > 🏆 41 Contributions in the Year 2022
  > 
-> 📦 464.8 kB Used in GitHub's Storage 
+> 📦 465.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,23 +136,16 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   28.23% 
-Markdown                 1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   26.4% 
-Pug                      1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.49% 
-YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-newblog                  3 hrs 23 mins       ███████████████░░░░░░░░░░   63.44% 
-Unknown Project          1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   29.07% 
-cxvh-cli                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87% 
-blogs                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -173,7 +166,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/03/2022 20:25:55 UTC
+ Last Updated on 28/03/2022 20:26:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
