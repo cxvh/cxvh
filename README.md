@@ -91,8 +91,6 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -136,16 +134,18 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     31 mins             ██████████████░░░░░░░░░░░   59.27% 
+CSS                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   26.97% 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.76%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  52 mins             █████████████████████████   100.0%
 
 ```
 
@@ -166,7 +166,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/03/2022 20:26:36 UTC
+ Last Updated on 29/03/2022 20:26:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
