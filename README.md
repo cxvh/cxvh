@@ -95,13 +95,13 @@ HTML、模板语言<br>
 
 **🐱 My GitHub Data** 
 
-> 🏆 46 Contributions in the Year 2022
+> 🏆 47 Contributions in the Year 2022
  > 
-> 📦 465.1 kB Used in GitHub's Storage 
+> 📦 465.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 145 Public Repositories 
+> 📜 146 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -134,16 +134,17 @@ Sunday       7 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 22 mins        █████████████████░░░░░░░░   70.6% 
+HTML                     34 mins             ███████░░░░░░░░░░░░░░░░░░   29.4%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 56 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 56 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 56 mins        █████████████████████████   100.0%
 
 ```
 
@@ -164,7 +165,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/04/2022 20:26:15 UTC
+ Last Updated on 09/04/2022 20:25:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
