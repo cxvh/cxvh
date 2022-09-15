@@ -107,6 +107,48 @@ HTML、模板语言<br>
  > 
 > 🔑 15 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    76 commits     ██████░░░░░░░░░░░░░░░░░░░   26.86% 
+🌆 Daytime    57 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14% 
+🌃 Evening    85 commits     ███████░░░░░░░░░░░░░░░░░░   30.04% 
+🌙 Night      65 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       73 commits     ██████░░░░░░░░░░░░░░░░░░░   25.8% 
+Tuesday      73 commits     ██████░░░░░░░░░░░░░░░░░░░   25.8% 
+Wednesday    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
+Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
+Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+Sunday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -124,7 +166,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxvh/cxvh/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 20:33:21 UTC
+ Last Updated on 15/09/2022 20:31:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
