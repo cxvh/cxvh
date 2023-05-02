@@ -93,7 +93,7 @@ HTML、模板语言<br>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -163,7 +163,7 @@ Pug                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cxvh/cxvh/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2023 20:29:24 UTC
+ Last Updated on 02/05/2023 20:29:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
