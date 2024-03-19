@@ -91,7 +91,7 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -134,16 +134,19 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               23 mins             █████████████████████████   100.00 % 
+JavaScript               23 mins             ██████████████████░░░░░░░   70.57 % 
+Vue.js                   8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-readadmin                23 mins             █████████████████████████   100.00 % 
+readadmin                33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +166,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cxvh/cxvh/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2024 20:29:03 UTC
+ Last Updated on 19/03/2024 20:28:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
