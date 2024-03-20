@@ -91,7 +91,7 @@ HTML、模板语言<br>
 <details>
   <summary><b> :computer: 编码状态</b></summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -166,7 +166,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cxvh/cxvh/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2024 20:28:59 UTC
+ Last Updated on 20/03/2024 20:30:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
