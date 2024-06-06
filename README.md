@@ -99,8 +99,6 @@ HTML、模板语言<br>
 
 > 📦 480.5 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 187 Public Repositories 
@@ -163,7 +161,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cxvh/cxvh/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2024 20:30:58 UTC
+ Last Updated on 06/06/2024 20:33:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
