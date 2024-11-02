@@ -16,16 +16,6 @@
 - [cxvh-cli 脚手架使用说明](http://cxvh.com/2022/03/05/node/cxvh-cli/)
 <!-- BLOG-POST-LIST:END -->
 
-### :zap: 近期动态
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/cxvh/cxvh.github.io/issues/12) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
-2. ❗️ Closed issue [#13](https://github.com/cxvh/cxvh.github.io/issues/13) in [cxvh/cxvh.github.io](https://github.com/cxvh/cxvh.github.io)
-<!--END_SECTION:activity-->
-
-[<img src="https://cdn.jsdelivr.net/gh/cxvh/cxvh@output/github-contribution-grid-snake.svg" onerror='this.src="https://github.com/cxvh/cxvh/raw/output/github-contribution-grid-snake.svg"' alt="Generate Datas" width="100%">](https://github.com/cxvh)
-
-[![](https://activity-graph.herokuapp.com/graph?username=cxvh&theme=react-dark&area=true&hide_border=true)](https://github.com/cxvh)
-
 ### :gem: 投入开发时间：
 [![time tracker](https://wakatime.com/badge/gitlab/cxvh/blogs.svg)](https://wakatime.com/badge/gitlab/cxvh/blogs)
 
