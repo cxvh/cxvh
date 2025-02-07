@@ -9,11 +9,11 @@
 
 ### 博客文章
 <!-- BLOG-POST-LIST:START -->
-- [echarts 离线部署教程](http://cxvh.com/2024/07/18/echarts/deploy/)
-- [ChatGPT+AI技术项目实战，打造多端智能虚拟数字人](http://cxvh.com/2023/10/09/imooc/ai/)
-- [改版中，请稍后访问](http://cxvh.com/2022/05/01/hexo/hello%20world/)
-- [virtualbox 的安装和使用](http://cxvh.com/2022/03/20/windows/virtualbox/)
-- [cxvh-cli 脚手架使用说明](http://cxvh.com/2022/03/05/node/cxvh-cli/)
+- [ChatGPT+AI技术项目实战，打造多端智能虚拟数字人](https://cxvh.com/2023/10/09/imooc/ai/)
+- [virtualbox 的安装和使用](https://cxvh.com/2022/03/20/system/virtualbox/)
+- [【已加密】一站掌握TypeScript基础入门+语法进阶+高级语法](https://cxvh.com/2022/01/10/imooc/TypeScript/)
+- [vue3 基础知识](https://cxvh.com/2021/08/03/vue3/base/)
+- [typescript 基础知识](https://cxvh.com/2021/08/03/web/ts/base./)
 <!-- BLOG-POST-LIST:END -->
 
 ### :gem: 投入开发时间：
