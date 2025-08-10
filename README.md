@@ -2,7 +2,7 @@
   <img src="https://cdn.jsdelivr.net/gh/cxvh/static/gif/20201201042317.webp">
 </div>
 
-### :heart_eyes: GitHub 分析
+### GitHub 分析
 ![BaranLee's Github stats](https://github-readme-stats.vercel.app/api?username=cxvh&theme=flag-india&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cxvh&theme=flag-india&show_icons=true&locale=en&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cxvh)
@@ -89,7 +89,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 </details>
 
-### :kissing_smiling_eyes: 访客
+### 访客
   
 ![cxvh](https://komarev.com/ghpvc/?username=cxvh&label=Profile%20views&color=0e75b6&style=flat)
 
